@@ -2,14 +2,7 @@
 
 Educations meets VR
 
-
-
-
-
-
-
-
-
+------------------------
 
 MIT License
 
