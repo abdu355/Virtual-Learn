@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9b06c951d67d7e54e8a5d54bb276eff2
+timeCreated: 1487501861
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wizzta
+  fontNames:
+  - Wizzta
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

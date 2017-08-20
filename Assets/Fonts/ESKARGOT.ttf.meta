@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1414298c2f749384b9614dcc0fb3c319
+timeCreated: 1487501861
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eskargot
+  fontNames:
+  - Eskargot
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

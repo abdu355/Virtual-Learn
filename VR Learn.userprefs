@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playVideoScript.cs">
+    <Files>
+      <File FileName="Assets\catchMathCube.cs" Line="1" Column="1" />
+      <File FileName="Assets\catchMathCube2.cs" Line="1" Column="1" />
+      <File FileName="Assets\answerCube.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Demos\Scripts\GVRDemo\Teleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\boneInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\mixChemical.cs" Line="97" Column="62" />
+      <File FileName="Assets\resetBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets\playVideoScript.cs" Line="10" Column="44" />
+      <File FileName="Assets\SpaceBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" Line="1" Column="1" />
+      <File FileName="Assets\Realistic Effects Pack\Scripts\Share\FadeInOutShaderColor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

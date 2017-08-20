@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05295902e7bd99940abaf13b25d16d9d
+timeCreated: 1483533582
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Acca
+  fontNames:
+  - Acca
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

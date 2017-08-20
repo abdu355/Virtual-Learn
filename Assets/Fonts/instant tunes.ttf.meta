@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f7317ad49e30034ba6397d8ef1a1145
+timeCreated: 1483533585
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Instant Tunes
+  fontNames:
+  - Instant Tunes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

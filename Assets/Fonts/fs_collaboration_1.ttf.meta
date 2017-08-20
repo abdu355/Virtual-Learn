@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28ff933b8df479749bce7a0b8f3fe501
+timeCreated: 1483533630
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FS Collaboration 1
+  fontNames:
+  - FS Collaboration 1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
