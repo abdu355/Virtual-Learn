@@ -1,6 +1,6 @@
 # Virtual-Learn
 
-Educations meets VR
+Education meets VR
 
 ------------------------
 
